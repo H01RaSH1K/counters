@@ -1,0 +1,12 @@
+{
+  "name": "com.anhertis.counters",
+  "version": "0.1.0",
+  "displayName": "Counters",
+  "unity": "2022.3",
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.6"
+  },
+  "author": {
+    "name": "Danila Mamutov"
+  }
+}
