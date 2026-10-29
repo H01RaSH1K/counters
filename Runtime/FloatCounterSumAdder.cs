@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Counters
+namespace Anhertis.Counters
 {
     public class FloatCounterSumAdder : MonoBehaviour
     {

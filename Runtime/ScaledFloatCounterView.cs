@@ -1,7 +1,7 @@
 using System.Globalization;
 using UnityEngine;
 
-namespace Counters
+namespace Anhertis.Counters
 {
     public class ScaledFloatCounterView : CounterView<float>
     {

@@ -1,7 +1,7 @@
 using TMPro;
 using UnityEngine;
 
-namespace Counters
+namespace Anhertis.Counters
 {
     [RequireComponent(typeof(TextMeshProUGUI))]
     public abstract class CounterView<TValue> : MonoBehaviour where TValue : struct, System.IComparable<TValue>

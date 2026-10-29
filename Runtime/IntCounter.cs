@@ -1,4 +1,4 @@
-namespace Counters
+namespace Anhertis.Counters
 {
     public sealed class IntCounter : Counter<int>
     {

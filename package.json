@@ -1,6 +1,6 @@
 {
   "name": "com.anhertis.counters",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "displayName": "Counters",
   "unity": "2022.3",
   "dependencies": {

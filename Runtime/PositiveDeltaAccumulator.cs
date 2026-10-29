@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Counters
+namespace Anhertis.Counters
 {
     [RequireComponent(typeof(FloatCounter))]
     public class PositiveDeltaAccumulator : MonoBehaviour

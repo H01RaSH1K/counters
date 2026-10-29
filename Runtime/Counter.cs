@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace Counters
+namespace Anhertis.Counters
 {
     public abstract class Counter<TValue> : MonoBehaviour where TValue : struct, IComparable<TValue>
     {
